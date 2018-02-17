@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 # gem 'rails'
-gem 'nokogiri'
+gem 'nokogiri', '~> 1.8.1'
 gem 'robotex'
 gem 'anemone'
 gem 'mechanize'
